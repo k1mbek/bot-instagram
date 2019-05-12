@@ -46,4 +46,4 @@ $ node index.js
 * FIXING & TESTING BY SYNTAX (@officialputu_id)
 * CCOCOT.CO | BC0DE.NET | NAONLAH.NET | WingkoColi
 * SGB TEAM REBORN | Zerobyte.id | ccocot@bc0de.net
-* RMT by Mas Okky (@masokky_)
+* REMAKE & REPOST BY k1mbek
